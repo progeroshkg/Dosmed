@@ -1,0 +1,12 @@
+User-agent: Googlebot
+Disallow: /blog/
+Disallow: /about/
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /cgi-bin/
+Disallow: /httpdocs/
+Disallow: /tmp/
+Disallow: /private/
+
+Sitemap: https://dosmed.kg/sitemap.xml
